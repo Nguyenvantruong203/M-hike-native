@@ -15,12 +15,11 @@ import com.example.mhike.R;
 import com.example.mhike.data.model.Hike;
 import com.example.mhike.ui.hike.HikeAdapter;
 import com.example.mhike.ui.hike.HikeDetailActivity;
-import com.example.mhike.ui.hike.HikeViewModel;
+import com.example.mhike.viewmodel.HikeViewModel;
 import com.example.mhike.ui.hike.MainActivity;
 import com.example.mhike.ui.observation.ObservationListActivity;
 import com.example.mhike.ui.profile.ProfileActivity;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
-import com.google.android.material.chip.Chip;
 import com.google.android.material.chip.ChipGroup;
 
 import java.util.List;

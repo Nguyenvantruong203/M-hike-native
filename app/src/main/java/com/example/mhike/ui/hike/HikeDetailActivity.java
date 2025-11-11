@@ -3,7 +3,6 @@ package com.example.mhike.ui.hike;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
-import android.view.View;
 import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.ImageView;
@@ -16,6 +15,7 @@ import androidx.lifecycle.ViewModelProvider;
 import com.example.mhike.R;
 import com.example.mhike.data.model.Hike;
 import com.example.mhike.ui.observation.AddObservationActivity;
+import com.example.mhike.viewmodel.HikeViewModel;
 import com.google.android.material.appbar.CollapsingToolbarLayout;
 
 public class HikeDetailActivity extends AppCompatActivity {

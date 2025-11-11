@@ -16,10 +16,11 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.mhike.R;
 import com.example.mhike.data.model.Observation;
-import com.example.mhike.ui.hike.HikeViewModel;
+import com.example.mhike.viewmodel.HikeViewModel;
 import com.example.mhike.ui.hike.MainActivity;
 import com.example.mhike.ui.profile.ProfileActivity;
 import com.example.mhike.ui.search.SearchActivity;
+import com.example.mhike.viewmodel.ObservationViewModel;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class ObservationListActivity extends AppCompatActivity implements GroupedObservationAdapter.OnObservationClickListener {

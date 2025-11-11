@@ -1,4 +1,4 @@
-package com.example.mhike.ui.hike;
+package com.example.mhike.viewmodel;
 
 import android.app.Application;
 

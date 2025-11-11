@@ -10,10 +10,10 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.lifecycle.ViewModelProvider;
 
 import com.example.mhike.R;
-import com.example.mhike.ui.hike.HikeViewModel;
+import com.example.mhike.viewmodel.HikeViewModel;
 import com.example.mhike.ui.hike.MainActivity;
 import com.example.mhike.ui.observation.ObservationListActivity;
-import com.example.mhike.ui.observation.ObservationViewModel;
+import com.example.mhike.viewmodel.ObservationViewModel;
 import com.example.mhike.ui.search.SearchActivity;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 

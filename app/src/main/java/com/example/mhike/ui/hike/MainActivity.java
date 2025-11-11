@@ -2,7 +2,6 @@ package com.example.mhike.ui.hike;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.View;
 import android.widget.ImageButton;
 import android.widget.Toast;
 
@@ -17,6 +16,7 @@ import com.example.mhike.data.model.Hike;
 import com.example.mhike.ui.observation.ObservationListActivity;
 import com.example.mhike.ui.profile.ProfileActivity;
 import com.example.mhike.ui.search.SearchActivity;
+import com.example.mhike.viewmodel.HikeViewModel;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 

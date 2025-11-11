@@ -1,4 +1,4 @@
-package com.example.mhike.ui.observation;
+package com.example.mhike.viewmodel;
 
 import android.app.Application;
 
